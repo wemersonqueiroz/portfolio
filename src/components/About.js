@@ -10,7 +10,7 @@ export default function About() {
         <p></p>
         <p></p>{" "}
       </div>
-      <img src={profile} width="200px" alt="profile" />;
+      <img src={profile} width="200px" alt="profile" />
     </section>
   )
 }
