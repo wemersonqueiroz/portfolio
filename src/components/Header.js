@@ -1,13 +1,19 @@
 import React from "react"
-import profile from "../images/profile.png"
 import Nav from "./Nav"
 
 export default function Header() {
+  function handleClick() {
+    document.body.classList.toggle("nav-open")
+  }
   return (
     <header>
-      <div className="logo">
-        <img src={profile} alt="" />
-      </div>
+      <div className="logo">Wemerson Queiroz</div>
+      <button
+        onClick={handleClick}
+        className="nav-toggle"
+        aria-label="toggle navigation">
+        <span className="hamburger"></span>
+      </button>
       <Nav />
     </header>
   )
