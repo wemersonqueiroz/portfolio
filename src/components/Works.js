@@ -1,6 +1,7 @@
 import React from "react"
-import portfolio00 from "../images/portfolio00.jpg"
+import portfolio00 from "../images/portfolio00.png"
 import portfolio01 from "../images/portfolio01.jpg"
+import tindog from "../images/tindog.png"
 
 export default function Works() {
   return (
@@ -13,24 +14,36 @@ export default function Works() {
           <img src={portfolio00} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 02*/}
-        <a href="#" class="portfolio__item" alt="">
-          <img src={portfolio01} alt="" className="portfolio__img" />
+        <a
+          href="https://wemersonqueiroz.github.io/bootstrap-tindog/"
+          class="portfolio__item"
+          target="_blank"
+          rel="noreferrer">
+          <img src={tindog} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 03*/}
         <a href="#" class="portfolio__item" alt="">
           <img src={portfolio00} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 04*/}
-        <a href="#" class="portfolio__item" alt="">
-          <img src={portfolio01} alt="" className="portfolio__img" />
+        <a
+          href="https://wemersonqueiroz.github.io/bootstrap-tindog/"
+          class="portfolio__item"
+          target="_blank"
+          rel="noreferrer">
+          <img src={tindog} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 05*/}
         <a href="#" class="portfolio__item" alt="">
           <img src={portfolio00} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 06*/}
-        <a href="#" class="portfolio__item" alt="">
-          <img src={portfolio01} alt="" className="portfolio__img" />
+        <a
+          href="https://wemersonqueiroz.github.io/bootstrap-tindog/"
+          class="portfolio__item"
+          target="_blank"
+          rel="noreferrer">
+          <img src={tindog} alt="" className="portfolio__img" />
         </a>
       </div>
     </section>
