@@ -10,16 +10,14 @@ export default function About() {
       </p>
       <div class="about-me__body">
         <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          I'm a tech enthusiast, Star Wars Fa, coffee addicted who recently
+          found a passion for working with web development.
         </p>
         <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          In February 2022, I discovered that I like to programme after getting
+          into Solidity Smart Contract Development and JavaScript. Currently,
+          I'm studying to be proficient with HTML, CSS, JavaScript and React,
+          and this page is my first React app to show my skills.
         </p>
       </div>
       <img src={profile01} alt="profile" className="about-me__img" />
