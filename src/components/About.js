@@ -10,7 +10,7 @@ export default function About() {
       </p>
       <div class="about-me__body">
         <p>
-          I'm a tech enthusiast, Star Wars Fa, coffee addicted who recently
+          I'm a tech enthusiast, Star Wars Fan, coffee addicted who recently
           found a passion for working with web development.
         </p>
         <p>
