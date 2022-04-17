@@ -9,31 +9,31 @@ export default function Nav() {
       <ul className="nav__list">
         <li className="nav__item">
           {" "}
-          <a href="index.html#home" className="nav__link">
+          <a href="#home" className="nav__link">
             Home
           </a>
         </li>
         <li class="nav__item">
           {" "}
-          <a href="index.html#my-services" className="nav__link">
+          <a href="#my-services" className="nav__link">
             My Services
           </a>
         </li>
         <li class="nav__item">
           {" "}
-          <a href="index.html#about" className="nav__link">
+          <a href="#about" className="nav__link">
             About me
           </a>
         </li>
         <li class="nav__item">
           {" "}
-          <a href="index.html#works" className="nav__link">
+          <a href="#works" className="nav__link">
             My Work
           </a>
         </li>
         <li class="nav__item">
           {" "}
-          <a href="index.html#contact" className="nav__link">
+          <a href="#contact" className="nav__link">
             Contact
           </a>
         </li>
