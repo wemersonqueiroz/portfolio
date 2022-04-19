@@ -6,7 +6,7 @@ export default function About() {
     <section className="about-me" id="about">
       <h2 className="section__title section__title--about">Who I am</h2>
       <p className="section__subtitle section__subtitle--about">
-        Self thought Front end Developer
+        Self thought Frontend Developer
       </p>
       <div class="about-me__body">
         <p>

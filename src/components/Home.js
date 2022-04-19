@@ -7,9 +7,7 @@ export default function Home() {
       <h1 class="section__title section__title--intro">
         Hi, I am <strong>Wemerson Queiroz</strong>
       </h1>
-      <p className="section__subtitle section__subtitle--intro">
-        Front-end dev
-      </p>
+      <p className="section__subtitle section__subtitle--intro">Frontend dev</p>
       <img src={profile00} className="intro__img" alt="" />
     </section>
   )

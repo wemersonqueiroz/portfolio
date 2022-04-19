@@ -1,6 +1,5 @@
 import React from "react"
 import portfolio00 from "../images/portfolio00.png"
-import portfolio01 from "../images/portfolio01.jpg"
 import tindog from "../images/tindog.png"
 
 export default function Works() {
