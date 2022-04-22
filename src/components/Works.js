@@ -1,5 +1,6 @@
 import React from "react"
 import portfolio00 from "../images/portfolio00.png"
+import portfolio01 from "../images/portfolio01.png"
 import tindog from "../images/tindog.png"
 
 export default function Works() {
@@ -21,28 +22,11 @@ export default function Works() {
           <img src={tindog} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 03*/}
-        <a href="#" class="portfolio__item" alt="">
-          <img src={portfolio00} alt="" className="portfolio__img" />
-        </a>
-        {/* portfolio ITEM 04*/}
         <a
-          href="https://wemersonqueiroz.github.io/bootstrap-tindog/"
+          href="https://hidden-ravine-54566.herokuapp.com/"
           class="portfolio__item"
-          target="_blank"
-          rel="noreferrer">
-          <img src={tindog} alt="" className="portfolio__img" />
-        </a>
-        {/* portfolio ITEM 05*/}
-        <a href="#" class="portfolio__item" alt="">
-          <img src={portfolio00} alt="" className="portfolio__img" />
-        </a>
-        {/* portfolio ITEM 06*/}
-        <a
-          href="https://wemersonqueiroz.github.io/bootstrap-tindog/"
-          class="portfolio__item"
-          target="_blank"
-          rel="noreferrer">
-          <img src={tindog} alt="" className="portfolio__img" />
+          alt="Newsletter Page">
+          <img src={portfolio01} alt="" className="portfolio__img" />
         </a>
       </div>
     </section>
