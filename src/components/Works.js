@@ -10,7 +10,7 @@ export default function Works() {
       <p class="section__subtitle">A selection of my range of work</p>
       <div class="portfolio">
         {/* portfolio ITEM 01*/}
-        <a href="#" class="portfolio__item" alt="">
+        <a href="#home" class="portfolio__item">
           <img src={portfolio00} alt="" className="portfolio__img" />
         </a>
         {/* portfolio ITEM 02*/}
