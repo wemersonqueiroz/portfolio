@@ -8,7 +8,7 @@ const MailToLink = props => {
   const { mailTo, textMailTo } = props
 
   return (
-    <a href={mailTo} class="footer__link">
+    <a href={mailTo} className="footer__link">
       {textMailTo}
     </a>
   )
