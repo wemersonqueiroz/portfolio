@@ -1,5 +1,9 @@
 import React from "react"
-
+/**
+ * @param {string} socialLink e.g "www.github.com/wemersonqueiroz"
+ * @param {string} socialIcon e.g "fa-linkedin" - search icons on F.A
+ * F.A = FontAwesome
+ */
 const Social = props => {
   const { socialLink, socialIcon } = props
 
