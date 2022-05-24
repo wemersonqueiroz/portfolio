@@ -10,9 +10,9 @@ Initially transferred all the information to React Containers and will be creati
 
 ** HTML, Css, JavaScript & React **
 
-## Screenshots
+<!-- ## Screenshots
 
-![App Screenshot](https://wemerson.dev/static/media/portfolio00.a7dedfe6d0ff60df4ad7.png)
+![App Screenshot](https://wemerson.dev/static/media/portfolio00.a7dedfe6d0ff60df4ad7.png) -->
 
 
 ## 🔗 Links
