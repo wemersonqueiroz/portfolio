@@ -3,8 +3,7 @@
 
 Following a HTML and CSS tutorial to create a Portfolio and decided to go further on this project migrating it to React.
 
-Initially transferred all the information to React Containers and will be creating reusable components to make it a complete React App.
-
+Initially transferred all the information to React Containers and next steps will be create reusable component.
 
 ## Tech Stack
 
