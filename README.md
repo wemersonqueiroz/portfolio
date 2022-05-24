@@ -23,5 +23,5 @@ Initially transferred all the information to React Containers and will be creati
 
 ## Feedback
 
-If you have any feedback, please reach out to me at hello@wemerson.dev
+If you have any feedback, please reach out to me at hi@wemerson.dev
 
