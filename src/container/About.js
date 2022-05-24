@@ -3,8 +3,10 @@ import Images from "../images/Images"
 
 export default function About() {
   return (
-    <section className="about-me" id="about">
-      <h2 className="section__title section__title--about">Who I am</h2>
+    <section className="about-me flex flex-col items-center" id="about">
+      <h2 className="section__title section__title--about justify-left">
+        Who I am
+      </h2>
       <p className="section__subtitle section__subtitle--about">
         Self thought Frontend Developer
       </p>
@@ -23,7 +25,7 @@ export default function About() {
       <img
         src={Images.profile.profile01}
         alt="profile"
-        className="about-me__img"
+        className="about-me__img w-2/4 md:w-full"
       />
     </section>
   )

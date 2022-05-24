@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <footer className="footer" id="contact">
       <MailToLink
-        mailTo="mailto:hello@wemerson.dev"
-        textMailTo="hello@wemerson.dev"
+        mailTo="mailto:hi@wemerson.dev"
+        textMailTo="hi@wemerson.dev"
       />
       <ul className="social-list">
         <Social
