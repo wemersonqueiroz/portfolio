@@ -8,6 +8,11 @@ export default function Works() {
       <h2 className="section__title section__title--work"> My Work</h2>
       <p className="section__subtitle">A selection of my range of work</p>
       <div class="portfolio">
+        {/* portfolio ITEM 04*/}
+        <WorksDetails
+          projectLink="https://niche-invest.com"
+          projectImage={Images.portfolio.portfolio04}
+        />
         {/* portfolio ITEM 03*/}
         <WorksDetails
           projectLink="https://manage-tailwind.pages.dev/"
